@@ -1,6 +1,7 @@
 {
   "pets": [
     {
+        "id": 0,
         "name": "Dunga",
         "image": "Dunga",
         "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Dunga.png?raw=true",
@@ -10,6 +11,7 @@
         "location": "Rio de Janeiro (RJ)"
     },
     {
+        "id": 1,
         "name": "Felicia",
         "image": "Felicia",
         "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Felicia.png?raw=true",
@@ -19,6 +21,7 @@
         "location": "Nova Iguaçu (RJ)"
     },
     {
+        "id": 2,
         "name": "Sirius",
         "image": "Sirius",
         "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Sirius.png?raw=true",
@@ -28,6 +31,7 @@
         "location": "Duque de Caxias (RJ)"
     },
     {
+        "id": 3,
         "name": "Fiona",
         "image": "Fiona",
         "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Fiona.png?raw=true",
@@ -37,6 +41,7 @@
         "location": "São Gonçalo (RJ)"
     },
     {
+        "id": 4,
         "name": "Sid",
         "image": "Sid",
         "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Sid.png?raw=true",
@@ -46,6 +51,7 @@
         "location": "Rio de Janeiro (RJ)"
     },
     {
+        "id": 5,
         "name": "Yoda",
         "image": "Yoda",
         "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Yoda.png?raw=true",
@@ -55,6 +61,7 @@
         "location": "Nova Iguaçu (RJ)"
     },
     {
+        "id": 6,
         "name": "Lua",
         "image": "Lua",
         "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Lua.png?raw=true",
@@ -64,6 +71,7 @@
         "location": "Duque de Caxias (RJ)"
     },
     {
+        "id": 7,
         "name": "Amora",
         "image": "Amora",
         "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Amora.png?raw=true",
@@ -73,6 +81,7 @@
         "location": "São Gonçalo (RJ)"
     },
     {
+        "id": 8,
         "name": "Zelda",
         "image": "Zelda",
         "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Zelda.png?raw=true",
