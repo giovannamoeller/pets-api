@@ -2,7 +2,7 @@
     "pets": [
       {
           "name": "Dunga",
-          "image": "Dunga",
+          "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Dunga.png?raw=true",
           "age": "2 anos",
           "behavior": "Calmo e educado",
           "size": "Porte pequeno",
@@ -11,7 +11,7 @@
       },
       {
           "name": "Felicia",
-          "image": "Felicia",
+          "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Felicia.png?raw=true",
           "age": "3 meses",
           "behavior": "Ativa e carinhosa",
           "size": "Porte pequeno",
@@ -20,7 +20,7 @@
       },
       {
           "name": "Sirius",
-          "image": "Sirius",
+          "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Sirius.png?raw=true",
           "age": "6 meses",
           "behavior": "Ativo e educado",
           "size": "Porte grande",
@@ -29,7 +29,7 @@
       },
       {
           "name": "Fiona",
-          "image": "Fiona",
+          "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Fiona.png?raw=true",
           "age": "3 anos",
           "behavior": "Calma e carinhosa",
           "size": "Porte pequeno",
@@ -38,7 +38,7 @@
       },
       {
           "name": "Sid",
-          "image": "Sid",
+          "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Sid.png?raw=true",
           "age": "8 meses",
           "behavior": "Brincalhão e amável",
           "size": "Porte médio/grande",
@@ -47,7 +47,7 @@
       },
       {
           "name": "Yoda",
-          "image": "Yoda",
+          "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Yoda.png?raw=true",
           "age": "1 ano",
           "behavior": "Ativo e carinhoso",
           "size": "Porte médio",
@@ -56,7 +56,7 @@
       },
       {
           "name": "Lua",
-          "image": "Lua",
+          "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Lua.png?raw=true",
           "age": "6 meses",
           "behavior": "Ativa e carinhosa",
           "size": "Porte médio",
@@ -65,7 +65,7 @@
       },
       {
           "name": "Amora",
-          "image": "Amora",
+          "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Amora.png?raw=true",
           "age": "45 dias",
           "behavior": "Calma e carinhosa",
           "size": "Porte grande",
@@ -74,7 +74,7 @@
       },
       {
           "name": "Zelda",
-          "image": "Zelda",
+          "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Zelda.png?raw=true",
           "age": "5 meses",
           "behavior": "Ativa e amável",
           "size": "Porte médio",
