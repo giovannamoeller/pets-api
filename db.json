@@ -1,94 +1,85 @@
 {
-  "pets": [
-    {
-        "id": 0,
-        "name": "Dunga",
-        "image": "Dunga",
-        "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Dunga.png?raw=true",
-        "age": "2 years",
-        "behavior": "Calm and well-behaved",
-        "size": "Small size",
-        "location": "Rio de Janeiro (RJ)"
-    },
-    {
-        "id": 1,
-        "name": "Felicia",
-        "image": "Felicia",
-        "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Felicia.png?raw=true",
-        "age": "3 months",
-        "behavior": "Active and affectionate",
-        "size": "Small size",
-        "location": "Nova Iguaçu (RJ)"
-    },
-    {
-        "id": 2,
-        "name": "Sirius",
-        "image": "Sirius",
-        "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Sirius.png?raw=true",
-        "age": "6 months",
-        "behavior": "Active and well-behaved",
-        "size": "Large size",
-        "location": "Duque de Caxias (RJ)"
-    },
-    {
-        "id": 3,
-        "name": "Fiona",
-        "image": "Fiona",
-        "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Fiona.png?raw=true",
-        "age": "3 years",
-        "behavior": "Calm and affectionate",
-        "size": "Small size",
-        "location": "São Gonçalo (RJ)"
-    },
-    {
-        "id": 4,
-        "name": "Sid",
-        "image": "Sid",
-        "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Sid.png?raw=true",
-        "age": "8 months",
-        "behavior": "Playful and lovable",
-        "size": "Medium/Large size",
-        "location": "Rio de Janeiro (RJ)"
-    },
-    {
-        "id": 5,
-        "name": "Yoda",
-        "image": "Yoda",
-        "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Yoda.png?raw=true",
-        "age": "1 year",
-        "behavior": "Active and affectionate",
-        "size": "Medium size",
-        "location": "Nova Iguaçu (RJ)"
-    },
-    {
-        "id": 6,
-        "name": "Lua",
-        "image": "Lua",
-        "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Lua.png?raw=true",
-        "age": "6 months",
-        "behavior": "Active and affectionate",
-        "size": "Medium size",
-        "location": "Duque de Caxias (RJ)"
-    },
-    {
-        "id": 7,
-        "name": "Amora",
-        "image": "Amora",
-        "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Amora.png?raw=true",
-        "age": "45 days",
-        "behavior": "Calm and affectionate",
-        "size": "Large size",
-        "location": "São Gonçalo (RJ)"
-    },
-    {
-        "id": 8,
-        "name": "Zelda",
-        "image": "Zelda",
-        "imageUrl": "https://github.com/giovannamoeller/pets-api/blob/main/images/Zelda.png?raw=true",
-        "age": "5 months",
-        "behavior": "Active and lovable",
-        "size": "Medium size",
-        "location": "Rio de Janeiro (RJ)"
-    }
-  ]
-}
+    "pets": [
+      {
+          "name": "Dunga",
+          "image": "Dunga",
+          "age": "2 anos",
+          "behavior": "Calmo e educado",
+          "size": "Porte pequeno",
+          "location": "Rio de Janeiro (RJ)",
+          "phoneNumber": "1112345678"
+      },
+      {
+          "name": "Felicia",
+          "image": "Felicia",
+          "age": "3 meses",
+          "behavior": "Ativa e carinhosa",
+          "size": "Porte pequeno",
+          "location": "Nova Iguaçu (RJ)",
+          "phoneNumber": "1112345678"
+      },
+      {
+          "name": "Sirius",
+          "image": "Sirius",
+          "age": "6 meses",
+          "behavior": "Ativo e educado",
+          "size": "Porte grande",
+          "location": "Duque de Caxias (RJ)",
+          "phoneNumber": "1112345678"
+      },
+      {
+          "name": "Fiona",
+          "image": "Fiona",
+          "age": "3 anos",
+          "behavior": "Calma e carinhosa",
+          "size": "Porte pequeno",
+          "location": "São Gonçalo (RJ)",
+          "phoneNumber": "1112345678"
+      },
+      {
+          "name": "Sid",
+          "image": "Sid",
+          "age": "8 meses",
+          "behavior": "Brincalhão e amável",
+          "size": "Porte médio/grande",
+          "location": "Rio de Janeiro (RJ)",
+          "phoneNumber": "1112345678"
+      },
+      {
+          "name": "Yoda",
+          "image": "Yoda",
+          "age": "1 ano",
+          "behavior": "Ativo e carinhoso",
+          "size": "Porte médio",
+          "location": "Nova Iguaçu (RJ)",
+          "phoneNumber": "1112345678"
+      },
+      {
+          "name": "Lua",
+          "image": "Lua",
+          "age": "6 meses",
+          "behavior": "Ativa e carinhosa",
+          "size": "Porte médio",
+          "location": "Duque de Caxias (RJ)",
+          "phoneNumber": "1112345678"
+      },
+      {
+          "name": "Amora",
+          "image": "Amora",
+          "age": "45 dias",
+          "behavior": "Calma e carinhosa",
+          "size": "Porte grande",
+          "location": "São Gonçalo (RJ)",
+          "phoneNumber": "1112345678"
+      },
+      {
+          "name": "Zelda",
+          "image": "Zelda",
+          "age": "5 meses",
+          "behavior": "Ativa e amável",
+          "size": "Porte médio",
+          "location": "Rio de Janeiro (RJ)",
+          "phoneNumber": "1112345678"
+      }
+    ]
+  }  
